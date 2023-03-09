@@ -1,0 +1,1 @@
+Bem vindo ao Agendamento de Viagem PDCAirlines o seu número de membro é <strong>{{$membro->numero_de_membro}}</strong>
