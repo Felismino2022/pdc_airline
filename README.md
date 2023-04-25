@@ -5,9 +5,9 @@ PDC AIRLINE consiste na venda de bilhetes de um determinado Voo.
 ## Layout do Projecto
 
 ![alt text](public/img/img1.png)
-![alt text](/img2.PNG)
-![alt text](screens/img3.PNG)
-![alt text](screens/img4.PNG)
+![alt text](public/img/img2.png)
+![alt text](public/img/img3.png)
+![alt text](public/img/img4.png)
 
 
 # Framework
